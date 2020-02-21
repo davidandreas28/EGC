@@ -1,1 +1,3 @@
 # EGC
+## Laboratoare
+## Teme
